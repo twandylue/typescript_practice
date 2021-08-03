@@ -1,0 +1,20 @@
+# node modules
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# dump
+dump.rdb
+
+# eslint
+.eslintrc.json
+
+# vscode
+.vscode
+
+# README
+README.md
+
+# Mac
+.DS_Store
